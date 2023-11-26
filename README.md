@@ -16,5 +16,7 @@ The truth is that it's a lot like high school math/algebra... but with very larg
 
 My main script breaks this down step by step with comments so that even someone who isn't a math genius may understand the mechanics behind their crypto wallet :) 
 
+![alt text](https://raw.githubusercontent.com/Mike-Zelixon/Crypto-Python-ECDSA/main/ecdsa%20script.png)
+
 
 
