@@ -12,8 +12,7 @@ It then shows you how to SIGN and VERIFY a digital message using the private/pub
 
 Most people have trouble understanding how a BTC wallet is generated, let alone the entire ECDSA multiplication process, which is a real mind-melter. 
 
-The truth is that it's a lot like high school math/algebra... but with very large numbers!!! 
-Mind bendingly large numbers. Numbers so big it would take you an eternity to count manually. 
+The truth is that it's a lot like high school algebra... but with very large numbers! Mind bending large numbers. Numbers so big it would take you an eternity to count manually. 
 
 My main script breaks this down step by step with comments so that even someone who isn't a math genius may understand the mechanics behind their crypto wallet :) 
 
