@@ -6,7 +6,7 @@ Includes 3 scripts
 
 The main script named "BTC ECDSA" shows you to take a random seed and turn it into private/public keypair using Elliptic Curve maths and modulation. 
 
-![alt text](https://blog.cloudflare.com/content/images/image02.gif)     ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png)
+![alt text](https://blog.cloudflare.com/content/images/image02.gif)  
 
 It then shows you how to SIGN and VERIFY a digital message using the private/public keypair you generated!   
 
